@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+ 
+    background-image: url(home.webp);
+
+}
+.header{
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    justify-content: center;
+}
+
+.header text{
+    color: white;
+    font-weight: 900;
+    font-size: 60px;
+    
+}
+.two{
+    text-align: center;
+    margin-top: 80px;    
+}
+.two text{
+    font-weight: 900;
+    font-size: 50px;
+    
+}
+.two a{
+    font-weight: 900;
+    font-size: 50px;
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: red;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+/* .two a::after{
+    font-weight: 900;
+    font-size: 50px;
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: red;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+} */
